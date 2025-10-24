@@ -4,6 +4,8 @@
 
 ---
 
+https://github.com/user-attachments/assets/c2eb3d95-8892-4636-92d1-98f8d54a6a68
+
 ## Español
 
 ### ¿Que es Smart Forms?
@@ -31,6 +33,8 @@ Estamos usando Vuejs 3, Vite y Mastra
 - Ejecuta en otra terminal npm run mastra:dev
 
 ---
+
+https://github.com/user-attachments/assets/a92ca41b-a42c-4cfc-928f-83c82bb83c74
 
 ## English
 
